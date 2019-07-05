@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Investor</string>
+
+
+    <string-array name="driversID">
+        <item>5002</item>
+        <item>5003</item>
+        <item>5004</item>
+        <item>5005</item>
+        <item>5006</item>
+        <item>5007</item>
+        <item>5008</item>
+        <item>5009</item>
+
+    </string-array>
+</resources>

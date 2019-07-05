@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#292B3D</color>
+    <color name="greyLight">#fafafa</color>
+    <color name="white">#ffffff</color>
+    <color name="startBlue">#09c6df</color>
+    <color name="endBlue">#0bcce6</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="baseReleaseColor">#212121</color>
+    <color name="basePressColor">#fafafa</color>
+    <color name="ballReleaseColor">#9e9e9e</color>
+    <color name="darkGrey">#A9A9A9</color>
+    <color name="red">#fc0101</color>
+</resources>
